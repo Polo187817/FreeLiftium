@@ -1,0 +1,7 @@
+{
+    "solver_key": "Put your capmonster api key here!",
+    "threads": 25,
+    "online_tokens": false,
+    "token base_name": "lft_",
+    "password": "liftiumspac123"
+}
